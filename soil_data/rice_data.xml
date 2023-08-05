@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<document>
+  <row><Variety>BR1</Variety><Yield>5.2</Yield></row>
+  <row><Variety>BR3</Variety><Yield>6</Yield></row>
+  <row><Variety>BR16</Variety><Yield>6.6</Yield></row>
+  <row><Variety>BR17</Variety><Yield>5.6</Yield></row>
+  <row><Variety>BR18</Variety><Yield>4.7</Yield></row>
+  <row><Variety>BR19</Variety><Yield>5.2</Yield></row>
+  <row><Variety>BR26</Variety><Yield>5.7</Yield></row>
+  <row><Variety>BR27</Variety><Yield>5.9</Yield></row>
+  <row><Variety>BR28</Variety><Yield>5.3</Yield></row>
+  <row><Variety>BR29</Variety><Yield>6.8</Yield></row>
+  <row><Variety>BR35</Variety><Yield>6.2</Yield></row>
+  <row><Variety>BR36</Variety><Yield>5.8</Yield></row>
+</document>
